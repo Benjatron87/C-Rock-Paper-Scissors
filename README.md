@@ -1,1 +1,1 @@
-# C-Rock-Paper-Scissors
+# CPP-Rock-Paper-Scissors
